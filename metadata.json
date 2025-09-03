@@ -1,0 +1,5 @@
+{
+  "name": "YKS Koçluk Paneli",
+  "description": "YKS (Yükseköğretim Kurumları Sınavı) öğrencileri için kapsamlı bir ders takip ve koçluk uygulaması. Öğrenci ekleyip çıkarabilir, her öğrencinin deneme sınavı sonuçlarını, çözdüğü kitapları ve günlük soru sayılarını ayrı ayrı takip edebilirsiniz.",
+  "requestFramePermissions": []
+}
